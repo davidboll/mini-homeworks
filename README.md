@@ -7,9 +7,11 @@
 ## Mini homework - 2018/02/19
 
 **Question**
+
 Why are we using postgresql database  instead of sqlite ?
 
 **(My) Answer**
+
 Because;
   - sqlite doesn't support User Management
   - sqLite only allows one user to write to the dateabase at a time.
